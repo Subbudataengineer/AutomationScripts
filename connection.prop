@@ -1,0 +1,14 @@
+[DEVDBCRED]
+driver=com.mysql.jdbc.Driver
+host=jdbc:mysql://127.0.0.1
+port=3306
+user=root
+pass=Root123$
+[PRODDBCRED]
+driver=com.mysql.jdbc.Driver
+host=jdbc:mysql://127.0.0.1
+port=3306
+user=root
+pass=Root123$
+
+
